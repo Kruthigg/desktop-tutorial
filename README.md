@@ -1,4 +1,4 @@
-![logo](https://github.com/Kruthigg/desktop-tutorial/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(4).png)
+![logo](https://github.com/Kruthigg/desktop-tutorial/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner_20240114_155248_0000.png)
 <h1 align="center">Hi 👋, I'm kruthi G</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
